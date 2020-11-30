@@ -64,7 +64,7 @@ WorkflowタブのInput Licensesを押してネット経由でライセンスフ�
 今回は汁椀の底に近い部分の厚さを測定してみました。<br>
 実物を手に取ると分かりますが、器の厚さが底に向かって厚くなっていることを感じますが、実際の厚さを測定したことがなかったです。<br>
 <br>
-ライセンス取得すると距離の推定結果が表示されます。<br>
+ライセンス取得すると距離の推定結果が表示されます。推定結果は約15mmでした。<br>
 <img src="https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/images/Day1_13.png" width="600"><br>
 <br>
 今回は実験なので、汁椀を切断し、実測してみました。<br>

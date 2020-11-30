@@ -1,11 +1,11 @@
 # AdventCalendar2020MJ
 Reality Captureについて、個人的に検討を進めていた知見をまとめます。<br>
-本業でも使えるよう業務外の活動を頑張ってきましたが、取り上げてもらえてなさそうなので、忘れてしまう前に文書化します。<br>
+本業でも使えるよう業務外の活動を頑張ってきましたが、機会が巡ってこなさそうなので、忘れてしまう前に文書化します。<br>
 個人の見解なので、内容は所属組織と関係ありません。<br>
 
 https://adventar.org/calendars/5159
 
-##### 1　*lock*
+##### 1　2500円から初めるPhotogrammetry　https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/Day01.md
 ##### 2　*lock*
 #####  3　*lock*
 #####  4　*lock*

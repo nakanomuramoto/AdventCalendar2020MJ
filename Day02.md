@@ -46,7 +46,7 @@ point0を選んでから物差しのゼロの目盛りの箇所で左クリッ�
 ## Control pointをGround Controlにする
 ヒエラキー（1Ds）の枠内にあるControl pointの名前を左クリックすると、ヒエラキーの下にコントロールポイントのセッティングが表示されます。<br>
 TypeをGround Controlに変更し、座標の数値を入力します。<br>
-使用している座標系の単位がmなので、Control point1の入力値は(-0.1, 0, 0)<sup>T<sup>です。<br>
+使用している座標系の単位がmなので、Control point1の入力値は(-0.1, 0, 0)<sup>T</sup>です。<br>
 <img src="https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/images/Day2_7.png" width="600"><br><br>
 同様にControl point 0, 1, 2のtypeと数値を入力したら、AlignmentタブのUpdateをクリックすると再計算されます。<br>
 また、3DViewの配置も修正されます。<br><br>

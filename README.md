@@ -6,7 +6,7 @@ Reality Captureについて、個人的に検討を進めていた知見をま�
 https://adventar.org/calendars/5159
 
 ##### 1　2500円から初めるPhotogrammetry　https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/Day01.md
-##### 2　*lock*
+##### 2　Control pointの設定と寸法の校正 https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/Day02.md
 #####  3　*lock*
 #####  4　*lock*
 #####  5　*lock*

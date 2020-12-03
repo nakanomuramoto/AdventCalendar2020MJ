@@ -8,7 +8,7 @@ https://adventar.org/calendars/5159
 ##### 1　2500円から初めるPhotogrammetry　https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/Day01.md
 ##### 2　Control pointの設定と寸法の校正 https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/Day02.md
 #####  3　モノ撮り　「自分が回る」vs「モノを回す」https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/Day03.md
-#####  4　*lock*
+#####  4　モノ撮り　「モノを回す」底面もキャプチャーする　https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/Day04.md
 #####  5　*lock*
 #####  6　*lock*
 #####  7　*lock*

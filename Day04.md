@@ -9,8 +9,8 @@ Day3で難易度が高いと言っていた「モノを回す」小物のキャ�
 2Dimageのtie pointを確認すると、ほとんどが被写体上に分布しています。<br>
 途中で、被写体の底面が映るような姿勢に変更します。今回はひっくり返しました。<br>
 <img src="https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/images/Day4_5.jpg" width="300"><br><br>
-背景に特徴点がほとんどないので、被写体上にある特徴点でマッチングされることを期待しました。<br>
-床の裏側からも撮影したとみなされたようで、このように画像がアライメントされました。<br>
+背景に特徴点がほとんどないので、被写体上にある特徴点でアライメントされることを期待しました。<br>
+狙い通り、床の裏側からも撮影したとみなされたようで、このように画像がアライメントされました。<br>
 <img src="https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/images/Day4_2.png" width="600"><br><br>
 
 ## 校正

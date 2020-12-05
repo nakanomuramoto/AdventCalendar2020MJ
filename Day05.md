@@ -28,7 +28,7 @@ Reality Captureはテクスチャを生成するときに使う画像を選ぶ�
 <br>
 画面左にある1Dsの下に表示されているSelected xxx inputsの中にある"Enable texgturing and coloring"を"Disable"にします。<br>
 そして、ReconstructionタブのTextureを実行します。<br>
-そうすると、見てほしい角度の周辺だけで質感を表現できているテクスチャを貼ることができました。<br>
+そうすると、見てほしい視点の周辺だけは質感を表現できているテクスチャを貼ることができました。<br>
 <img src="https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/images/Day5a_6.png" width="600"><br><br>
 
 ## まとめ

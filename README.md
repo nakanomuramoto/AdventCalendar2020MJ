@@ -10,7 +10,7 @@ https://adventar.org/calendars/5159
 #####  3　モノ撮り　「自分が回る」vs「モノを回す」https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/Day03.md
 #####  4　モノ撮り　「モノを回す」底面もキャプチャーする　https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/Day04.md
 #####  5　モノ撮り　質感を再現する小技　https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/Day05.md
-#####  6　*lock*
+#####  6　スマホカメラ vs DSLR　https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/Day06.md
 #####  7　*lock*
 #####  8　*lock*
 #####  9　*lock*

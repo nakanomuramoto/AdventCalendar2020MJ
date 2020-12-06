@@ -13,7 +13,8 @@
 チュートリアル動画でも紹介されている方法です。<br>
 分かれているComponent間で映っているControl Pointを設定し、それらの点が同じことをコンピュータに指定します。<br>
 <img src="https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/images/Day7_2.png" width="600"><br><br>
-今回の写真はDSLRでレンズの絞りを明るい設定にしていたので奥行き方向でピントが合っておらず、ぼけている部分にControl Pointを設定せざるを得ませんでした。Alignmentはできましたが、想像通り残念ながらReconstruction中に先に進まなくなりました。<br>
+今回の写真はDSLRでレンズの絞りを明るい設定にしていたので奥行き方向でピントが合っておらず、ぼけている部分にControl Pointを設定せざるを得ませんでした。<br>
+Alignmentはできましたが、想像通り残念ながらReconstruction中に先に進まなくなりました。<br>
 <img src="https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/images/Day7_8.png" width="600"><br><br>
 <br>
 
@@ -32,7 +33,7 @@
 <img src="https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/images/Day7_7.png" width="600"><br><br>
 <br>
 一度にたくさんの画像をAlignmentすることが難しく少しづつAlignmentするカメラを増やしていくようなものかもしれませんが、広域キャプチャーのように撮影画像がとても多いときによく使っていた手法です。<br>
-今回の例では再現が悪く、AlignmentはできるがReconstructionで止まってしまうということがありましたので、必ずうまくいくとは限らないということだと思うので注意が必要です。<br>
+今回の例では再現が悪く、継ぎ足し方を変えて試したときにAlignmentはできるがReconstructionで止まってしまうということがありましたので、必ずうまくいくとは限らないということだと思うので注意が必要です。<br>
 <br>
 
 ## まとめ

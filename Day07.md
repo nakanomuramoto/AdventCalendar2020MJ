@@ -13,7 +13,7 @@
 チュートリアル動画でも紹介されている方法です。<br>
 分かれているComponent間で映っているControl Pointを設定し、それらの点が同じことをコンピュータに指定します。<br>
 <img src="https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/images/Day7_2.png" width="600"><br><br>
-今回の写真はDSLRでレンズの絞りを明るい設定にしていたので奥行き方向でピントが合っておらず、ぼけている部分にControl Pointを設定せざるを得ませんでした。想像通り残念ながらReconstruction中に先に進まなくなりました。<br>
+今回の写真はDSLRでレンズの絞りを明るい設定にしていたので奥行き方向でピントが合っておらず、ぼけている部分にControl Pointを設定せざるを得ませんでした。Alignmentはできましたが、想像通り残念ながらReconstruction中に先に進まなくなりました。<br>
 <img src="https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/images/Day7_8.png" width="600"><br><br>
 <br>
 

@@ -20,7 +20,7 @@ Alignmentはできましたが、想像通り残念ながらReconstruction中に
 
 ## Merge Componentsする
 別のComponentにAlignmentされた画像を目的のComponentに追加する方法です。<br>
-追加したい画像を持っているComponentを選択し、その3D表示枠内で左クリックしてアクティブにして、CTRL+Aで画像を選択します。<br>
+追加したい画像を持っているComponentを選択し、その3D表示枠内で左クリックしてアクティブにして、CTRL+Aでカメラを選択します。<br>
 <img src="https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/images/Day7_4.png" width="600"><br><br>
 この状態で追加する先のComponentを1Ds内の名前をクリックし、Alignmentの中にあるMerge Componentsをクリックします。<br>
 <img src="https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/images/Day7_5.png" width="600"><br><br>

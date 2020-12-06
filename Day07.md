@@ -32,7 +32,7 @@ Alignmentはできましたが、想像通り残念ながらReconstruction中に
 まとまりそうな画像を選んでAlignmentし、そのComponentが映っていそうなほかの画像をwindowsのフォルダから1Ds枠内にドラッグアンドドロップしてAlignmentするという作業を順次繰り返していきます。<br>
 <img src="https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/images/Day7_7.png" width="600"><br><br>
 <br>
-一度にたくさんの画像をAlignmentすることが難しく少しづつAlignmentするカメラを増やしていくようなものかもしれませんが、広域キャプチャーのように撮影画像がとても多いときによく使っていた手法です。<br>
+一度にたくさんの画像をAlignmentさせると混乱しそうなので、少しづつAlignmentするカメラを増やしていくようなものかもしれませんが、広域キャプチャーのように撮影画像がとても多いときによく使っていた手法です。<br>
 今回の例では再現が悪く、継ぎ足し方を変えて試したときにAlignmentはできるがReconstructionで止まってしまうということがありましたので、必ずうまくいくとは限らないということだと思うので注意が必要です。<br>
 <br>
 

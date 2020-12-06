@@ -11,7 +11,7 @@ https://adventar.org/calendars/5159
 #####  4　モノ撮り　「モノを回す」底面もキャプチャーする　https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/Day04.md
 #####  5　モノ撮り　質感を再現する小技　https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/Day05.md
 #####  6　スマホカメラ vs DSLR　https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/Day06.md
-#####  7　Alignmentで画像がまとまらないとき https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/Day07.md
+#####  7　Alignmentで画像がまとまらないとき　https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/Day07.md
 #####  8　*lock*
 #####  9　*lock*
 ##### 10　*lock*

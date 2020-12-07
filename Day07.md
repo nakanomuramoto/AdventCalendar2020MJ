@@ -40,5 +40,5 @@ Alignmentはできましたが、想像通り残念ながらReconstruction中に
 たくさんの画像が一つのComponentにまとまらないときに取ってきた方法を紹介しました。<br>
 いずれもケースバイケースで必ずうまくいったり再現性が高いわけではありませんが、Control Pointを打たなくてもよくなる場合もありますので、手段をとして知っておくとよいかもしれません。<br>
 <br>
-これらの方法はAlignment settingのパラメータによって結果が変わります。パラメータの値は明確にリセットを指示しない限り保管され続けているので、適用している条件は一度確認した方が良いと思います。<br>
+これらの方法はAlignment settingのパラメータによって結果が変わります。パラメータの値は明確にリセットを指示しない限り保管され続けているようなので、適用している条件は一度確認した方が良いと思います。<br>
 <img src="https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/images/Day7_3.png" width="300"><br><br>

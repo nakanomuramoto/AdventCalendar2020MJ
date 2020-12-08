@@ -13,7 +13,7 @@ https://adventar.org/calendars/5159
 #####  6　スマホカメラ vs DSLR　https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/Day06.md
 #####  7　Alignmentで画像がまとまらないとき　https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/Day07.md
 #####  8　モノ撮り　「テクスチャレスな物体」　https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/Day08.md
-#####  9　*lock*
+#####  9　汚す前のテクスチャを生成する　https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/Day09.md
 ##### 10　*lock*
 ##### 11　*lock*
 ##### 12　*lock*

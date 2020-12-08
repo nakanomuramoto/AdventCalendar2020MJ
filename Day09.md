@@ -4,7 +4,7 @@ Day8は表面を汚して無地の表面のキャプチャーを行いました�
 できれば汚す前のテクスチャが欲しいので今回はそのために試した方法を紹介します。<br>
 確認が不十分な点はありますがご容赦ください。<br>
 
-## Image layer
+## Image layerは難しい
 チュートリアルで紹介されている方法は、アライメントする画像とテクスチャ生成する画像を分ける方法です。<br><br>
 https://support.capturingreality.com/hc/en-us/articles/360013294800-How-do-I-use-Image-layers-　
 <br><br>

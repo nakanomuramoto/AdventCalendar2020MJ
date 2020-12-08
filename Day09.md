@@ -17,7 +17,7 @@ https://support.capturingreality.com/hc/en-us/articles/360013294800-How-do-I-use
 要は汚す前後のカメラのアライメントができればよいということなので、汚す前後で回転台の同じ位置に被写体を載せ、回転台の表面のターゲットに対してカメラをアライメントするとよいと考えました。<br>
 <img src="https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/images/Day9_1.png" width="300">
 <img src="https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/images/Day9_2.png" width="300"><br><br>
-回転台の上に突き当て部品を追加し、花瓶の角度を再現できるように目印をつけて、回転台に載せる再現性を確保しました。<br>
+回転台の上に突き当て部品を追加し、残る自由度を拘束するため花瓶の角度を再現できるよう目印をつけ、回転台に載せる位置と向きの再現性を確保しました。<br>
 撮影しているカメラ位置は汚す前後で同じではありませんが回転台の上に貼っているパターンが強く抽出されるので、台の上のパターンが映っていればカメラの位置は推定されます。<br>
 そして、汚した後の画像でメッシュを作り、汚す前の画像でテクスチャを作るように指定するわけです。<br>
 <br>

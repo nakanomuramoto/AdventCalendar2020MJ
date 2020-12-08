@@ -27,7 +27,7 @@ https://support.capturingreality.com/hc/en-us/articles/360013294800-How-do-I-use
 汚した後の場合<br>
 表面の色と違う粉がタイポイントになっているので表面形状は復元しやすくなっています。<br>
 <img src="https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/images/Day9_4.png" width="600"><br><br>
-汚した後の画像でアライメントしてComponentを作った後に、汚す前の画像を1Dsにドラッグアンドドロップしてアライメントした結果がこちらです。テクスチャは汚す前の画像のみをenableにしました。<br>
+汚した後の画像でアライメントしてComponentを作った後に、汚す前の画像を1Dsにドラッグアンドドロップしてアライメントした結果がこちらです。テクスチャ生成は汚した後の画像はdisableに、汚す前の画像をenableにしました。<br>
 <img src="https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/images/Day9_5.png" width="600"><br><br>
 <br>
 被写体が無地なので色のずれがおきているか分かりにくく検証が不十分ですが、大きなずれがなくテクスチャを貼ることができたようです。<br>

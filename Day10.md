@@ -43,7 +43,7 @@ Export中にこちらのような注意が表示されますが、すみませ�
 Blender上で先ほどのモデルをimportしそれぞれのテクスチャを貼りました。<br>
 正直なところBlenderは使いこなせていないので、間違っていたら修正をお願いします。<br>
 <img src="https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/images/Day10_9.png" width="600"><br><br>
-Difuseマップのみ<br>
+Diffuseマップのみ<br>
 <img src="https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/images/Day10_11.png" width="600"><br><br>
 Displacementマップのみ。パラメータは修正しました。<br>
 <img src="https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/images/Day10_10.png" width="600"><br><br>

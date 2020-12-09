@@ -12,8 +12,8 @@ ReconstructionタブのToolsにあるSimplify Toolを使います。<br>
 
 ## UVマップを生成する
 ポリゴン数を変更した後にUVマップを再作成します。<br>
-同じところにあるUnwrapを使います。<br>
-細かい数字は後日紹介しますが1Dsの下に表示されたUnwrap ToolのUnwrapをクリックします。<br>
+同じタブのToolsにあるUnwrapを使います。<br>
+細かい設定は後日紹介しますが1Dsの下に表示されたUnwrap ToolのUnwrapをクリックします。<br>
 <img src="https://github.com/nakanomuramoto/Toio1/blob/main/picture/Day10_2.png" width="600"><br><br>
 3D表示枠をクリックし画面上の3D SceneタブにあるScene RenderのSweetをクリックすると、テクスチャの様子をチェスボードで確認できます。<br>
 <img src="https://github.com/nakanomuramoto/Toio1/blob/main/picture/Day10_3.png" width="600"><br><br>

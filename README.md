@@ -14,7 +14,7 @@ https://adventar.org/calendars/5159
 #####  7　Alignmentで画像がまとまらないとき　https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/Day07.md
 #####  8　モノ撮り　「テクスチャレスな物体」　https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/Day08.md
 #####  9　汚す前のテクスチャを生成する　https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/Day09.md
-##### 10　*lock*
+##### 10　ノーマルマップとディスプレイスメントマップの生成　https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/Day10.md
 ##### 11　*lock*
 ##### 12　*lock*
 ##### 13　*lock*

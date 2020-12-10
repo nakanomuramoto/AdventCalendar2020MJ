@@ -32,7 +32,8 @@ Ortho Projection ToolにあるRenderをクリックするとオルソプロジ�
 <img src="https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/images/Day11_6.png" width="600"><br><br>
 写真名をライセンス登録してrenderし直すとウォーターマークが消えました。<br>
 <img src="https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/images/Day11_7.png" width="600"><br><br>
-スマホカメラで撮影した画像では外を向いているように見えた両脇の人形が正面を向いているように見えます。また上からみた画像では両脇の人形の鼻が体の中央に映りまっすぐ立っているように見えます。<br>
+スマホカメラで撮影した画像では外を向いているように見えた両脇の人形が正面を向いているように見えます。<br>
+また上からみた画像では両脇の人形の鼻が体の中央に映りまっすぐ立っているように見えます。<br>
 <br>
 ## まとめ
 オルソプロジェクションの画像の生成方法の手順を紹介しました。<br>

@@ -4,7 +4,7 @@
 
 ## リセット
 表示領域がすっ飛んでしまったり向きの調整が分からなくなったとき、**キーボードのrを押すと初期状態に戻ります**。<br>
-CTRL+Zで表示領域と向きが復帰しないのが悩ましいところです。<br>
+CTRL+zで表示領域と向きが復帰**しない**のが悩ましいところです。<br>
 押す前　Greenの枠の表示を間違って回転させてしまった<br>
 <img src="https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/images/Day12_2.png" width="600"><br><br>
 押した後　Greenの枠をrで戻した<br>

@@ -16,7 +16,7 @@ https://adventar.org/calendars/5159
 #####  9　汚す前のテクスチャを生成する　https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/Day09.md
 ##### 10　ノーマルマップとデイスプレイスメントマップの生成　https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/Day10.md
 ##### 11　オルソプロジェクション　https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/Day11.md
-##### 12　3DViewの操作方法　https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/Day1.md
+##### 12　3DViewの操作方法　https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/Day12.md
 ##### 13　*lock*
 ##### 14　*lock*
 ##### 15　*lock*

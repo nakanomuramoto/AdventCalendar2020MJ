@@ -13,6 +13,7 @@ CTRL+zで表示領域と向きが復帰**しない**のが悩ましいところ�
 
 ## Numキー入力
 0と1はそれぞれパースペクティブ表示とオルソ表示の切り替えです。<br>
+1の枠がパースペクティブ表示、2の枠がオルソ表示です。<br>
 <img src="https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/images/Day12_1.png" width="600"><br><br>
 2と3は上面と下面、4と5は正面と背面、6と7が左側面と右側面で、それらはオルソ表示です。<br>
 このモデルは正面の設定が合ってなかったです。<br>
@@ -29,7 +30,8 @@ CTRL+zで表示領域と向きが復帰**しない**のが悩ましいところ�
 <img src="https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/images/Day12_1.png" width="600"><br><br>
 最後に特殊なのがshiftキーを押して右ボタンを押しながら左ボタンを押し、左右にマウスを動かすと画面に対して垂直な軸に回転するロール操作になります。<br>
 偶然回転してしまって戻せなくて焦ったことがありました。<br>
-<img src="https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/images/Day12_1.png" width="600"><br><br>
+2の枠が回転させた場合。<br>
+<img src="https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/images/Day12_2.png" width="600"><br><br>
 <br>
 
 ## まとめ

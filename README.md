@@ -19,7 +19,7 @@ https://adventar.org/calendars/5159
 ##### 12　3DViewの操作方法　https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/Day12.md
 ##### 13　photogrammetryに関係する歴史　https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/Day13.md
 ##### 14　部屋のキャプチャー　https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/Day14.md
-##### 15　*lock*
+##### 15　お化け屋敷対策　再読み込み　https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/Day15.md
 ##### 16　*lock*
 ##### 17　*lock*
 ##### 18　*lock*

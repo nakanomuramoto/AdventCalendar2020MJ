@@ -1,6 +1,6 @@
 # お化け屋敷対策　再読み込み　
 Day14で部屋のキャプチャーを試した例を紹介しましたが、白い壁は穴が開いたり凸凹していたりお化け屋敷のようになりやすいです。<br>
-白い壁は特徴点が抽出されにくいのでちぎった黒いテープを壁に貼ったり工夫したことがありますが、卵のプラスチック箱のような凸凹になったり苦労のわりによくならないことがありました。<br>
+白い壁は特徴点が抽出されにくいのでちぎった黒いテープを壁に貼ったり工夫したことがありますが、卵の箱のような凸凹になったり苦労のわりによくならないことがありました。<br>
 やはり平らな壁なのであればその部分のモデルは平らになってほしいです。<br>
 ここでは積極的にズルしてモデルの一部を平面に修正し、そのモデルをReality Captureに再度読み込み直す方法を紹介します。<br>
 ## モデルをexportする
@@ -17,7 +17,7 @@ ReconstructionタブのExportにあるmodelをクリックし、モデルを出�
 <img src="https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/images/Day15_3a.png" width="600"><br><br>
 修正したモデルと追加した平面をJoinしexportしました。<br>
 <img src="https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/images/Day15_4.png" width="600"><br><br>
-向きを変更します。epxortの設定時のforwardが時々間違うのでReality Captureで取り込んでみて確認しました。<br>
+向きを変更します。exportの設定時のforwardが時々間違うのでReality Captureに取り込んだ後で確認してください。<br>
 <img src="https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/images/Day15_8.png" width="600"><br><br>
 <br>
 ## Reality Captureにmodelを読み込む
@@ -31,9 +31,9 @@ ReconstructionタブのModel color＆Texture欄にあるUnwrapをクリックし
 <img src="https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/images/Day15_5c.png" width="600"><br><br>
 <br>
 ## Blenderで壁に貼ったplaneのメッシュを細かくする
-もう一度Blenderに戻りPlaneをeditorモードでRoopCutしてメッシュを細かくしました。<br>
+やり直します。もう一度Blenderに戻りPlaneをeditorモードでRoopCutしてメッシュを細かくしました。<br>
 <img src="https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/images/Day15_5d.png" width="600"><br><br>
-そのモデルをReality Captureに取り込みUnwrapすると、さっきの大きな一つの色の部分が細かいチェスボード状になりTextureの解像度も高くなりました。<br>
+さきほどと同様にJoinとexportしたモデルをReality Captureに取り込みUnwrapすると、さっきの大きな一つの色の部分が細かいチェスボード状になりTextureの解像度も高くなりました。<br>
 <img src="https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/images/Day15_5e.png" width="600"><br><br>
 <br>
 <img src="https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/images/Day15_5f.png" width="600"><br><br>

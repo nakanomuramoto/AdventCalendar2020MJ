@@ -21,7 +21,7 @@ https://adventar.org/calendars/5159
 ##### 14　部屋のキャプチャー　https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/Day14.md
 ##### 15　お化け屋敷対策　再読み込み　https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/Day15.md
 ##### 16　テクスチャ解像度 unwrap設定　https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/Day16.md
-##### 17　*lock*
+##### 17　設定のリセット　https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/Day17.md
 ##### 18　*lock*
 ##### 19　*lock*
 ##### 20　*lock*

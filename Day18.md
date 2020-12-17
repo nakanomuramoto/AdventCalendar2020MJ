@@ -31,5 +31,6 @@ Helpでinspenctを調べると、図の見方とガイダンスが表示され�
 ## まとめ
 動画を使ったキャプチャー方法と撮影状況の解析方法を紹介しました。<br>
 動画だと圧縮の影響など画像が劣化する要因が多いのでうまくいかないと思っていましたが、意外とうまく復元できました。<br>
+<img src="https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/images/Day18_6.png" width="600"><br><br>
 ブラーやフォーカルプレーン現象が起きないようにゆっくり移動して撮影すると便利そうです。<br>
 <br>

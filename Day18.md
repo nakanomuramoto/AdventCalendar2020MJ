@@ -5,7 +5,7 @@
 ## 動画の撮影
 使用した回転台は約10秒間で1回転していました。<br>
 Galaxy Note 9で4K60pで撮影しました。<br>
-撮影している角度を変更する前後で一時停止し、キャプチャーに不要なframeが撮影されないようにしました。<br>
+撮影しているピッチ角度を変更する前後で一時停止し、キャプチャーに不要なframeが撮影されないようにしました。<br>
 回転台の上に特徴点が表れやすい紙を貼り、背景は特徴点が表れにくい幕を張りました。<br>
 <img src="https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/images/Day18_1.png" width="600"><br><br>
 <br>

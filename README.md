@@ -24,7 +24,7 @@ https://adventar.org/calendars/5159
 ##### 17　設定のリセット　https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/Day17.md
 ##### 18　動画を使ってキャプチャーする　https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/Day18.md
 ##### 19　レンズの設定　https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/Day19.md
-##### 20　*lock*
+##### 20　紹介　”Multiview Geometry in Computer Vision”　https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/Day20.md
 ##### 21　*lock*
 ##### 22　*lock*
 ##### 23　*lock*

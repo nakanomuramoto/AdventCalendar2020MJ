@@ -1,4 +1,4 @@
-# 紹介「Multiview Geometry in Computer Vision」
+# 紹介　”Multiview Geometry in Computer Vision”
 バイブルと呼ばれている本です。<br>
 - https://www.amazon.co.jp/Multiple-View-Geometry-Computer-Vision/dp/0521540518
 

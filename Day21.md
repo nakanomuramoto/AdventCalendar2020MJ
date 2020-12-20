@@ -1,4 +1,4 @@
-# ショートカットの探し方
+# ショートカットやTipsの探し方
 このAdvent calenderで紹介しているショートカットなどを見つけてきた場所を紹介します。<br>
 
 ## Reality Capture内のHelp

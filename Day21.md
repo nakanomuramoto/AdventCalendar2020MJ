@@ -10,7 +10,7 @@ Ctrl+マウスのホイールで縮小できるようですが画面移動のた
 
 ## Capturing RealityのFAQやフォーラム
 <br>
-<img src="https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/images/Day21_1.png" width="600"><br><br>
+<img src="https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/images/Day21_1.png" width="600"><br>
 https://support.capturingreality.com/hc/en-us/sections/360004715740-RealityCapture-Tips-and-Tricks
 <br>
 特にCapturing Reality Supportの投稿を読むと良さそうです。<br><br>

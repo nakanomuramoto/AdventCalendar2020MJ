@@ -12,7 +12,7 @@ Ctrl+マウスのホイールで縮小できるようですが画面移動のた
 <br>
 <img src="https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/images/Day21_1.png" width="600"><br><br>
 https://support.capturingreality.com/hc/en-us/sections/360004715740-RealityCapture-Tips-and-Tricks
-<br><br>
+<br>
 特にCapturing Reality Supportの投稿を読むと良さそうです。<br><br>
 図解がほとんどなく全部英語なのですが、最近は機械翻訳も充実しているので読むのが楽になりました。<br>
 フォーラムは4-5年前の記事も出てくるので今も使える内容なのか悩むこともありました。<br>

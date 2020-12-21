@@ -20,7 +20,7 @@ Invertで反転させToolにあるFilter Selectionをクリックするとオレ
 <img src="https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/images/Day22_8.png" width="600"><br>
 <br>
 Exprot Camera Detphsは不要なので"No"にして、Export File Namingは対応させたいので"Original File Name"、
-Undistor imagesはオリジナルと重ねたいので"No"にします。<br>
+Undistort imagesはオリジナルと重ねたいので"No"にします。<br>
 <img src="https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/images/Day22_9.png" width="600"><br><br>
 その結果、マスクファイルが生成されます。<br>
 <img src="https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/images/Day22_10.png" width="600"><br><br>

@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=xxsdbzBwWLE&t=530s
 ただ失敗する例も確認できたので併せて紹介します。<br>
 
 ## マスクの生成
-まずモデルの必要な部分を残しfilterで残します。<br>
+まずモデルの必要な部分をfilterで残します。<br>
 ReconstructionタブのSelectionにあるLassoやRectで不要な部分を選びます。<br>
 <img src="https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/images/Day22_3.png" width="600"><br>
 <img src="https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/images/Day22_4.png" width="600"><br>
@@ -37,7 +37,7 @@ Undistor imagesはオリジナルと重ねたいので"No"にします。<br>
 <img src="https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/images/Day22_14.png" width="600"><br>
 <br>
 ## 失敗した例
-別の被写体について同じカメラで撮影し同様な手順を行ったのですが一つにまとまらない場合もありました。<br>
+別の被写体について同じカメラで撮影し同様な手順を行ったのですが一つにまとまりませんでした。<br>
 理屈ではうまくできると思ったのですが、被写体自体に特徴点を抽出しにくいせいか撮影枚数が足りなかったのか、今回は原因を突き止められませんでした。<br>
 <img src="https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/images/Day22_15.png" width="600"><br><br>
 

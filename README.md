@@ -26,7 +26,7 @@ https://adventar.org/calendars/5159
 ##### 19　レンズの設定　https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/Day19.md
 ##### 20　紹介　”Multiview Geometry in Computer Vision”　https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/Day20.md
 ##### 21　ショートカットやTipsの探し方　https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/Day21.md
-##### 22　*lock*
+##### 22　マスクの応用　https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/Day22.md
 ##### 23　*lock*
 ##### 24　*lock*
 ##### 25　*lock*

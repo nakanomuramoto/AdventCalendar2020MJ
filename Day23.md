@@ -4,7 +4,7 @@
 
 ## 「クローン文化財と3Dデータの著作権」
 こちらの数藤弁護士の文章を読みました。<br><br>
-https://www.gojo-partners.com/column-ps/2235/　
+https://www.gojo-partners.com/column-ps/2235
 <br><br>
 同コラムが紹介している次世代知財システム検討委員会の報告書にある論点が参考になりました。<br>
 新しい技術であっても既存の法律の解釈で判断されるということで理解しました。<br>
@@ -19,12 +19,12 @@ https://www.bunka.go.jp/seisaku/chosakuken/seidokaisetsu/gaiyo/chosakubutsu_jiyu
 佐々木氏による建物の撮影に関するコラムです。<br>
 データの元になる画像撮影において注意する点の参考になりそうです。<br>
 <br>
-https://visual-shift.jp/5103/ 
+https://visual-shift.jp/5103
 <br><br>
 ## 「令和元年意匠法改正のポイントと主な実務への影響」
 最近気になっているのが意匠権の拡大で、こちらの神田弁護士の文章を読みました。<br>
 <br>
-https://www.businesslawyers.jp/practices/1266　
+https://www.businesslawyers.jp/practices/1266
 <br><br>
 こちらによると建物の外観や内装デザインも意匠権の登録対象になったようです。<br><br>
 建物の外観や内観が意匠登録されていたりするとモデル化した後で問題になるのか心配になってきました。<br><br>

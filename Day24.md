@@ -3,7 +3,7 @@
 こちらが入力する元の画像です。イチゴがつやつやでおいしそうです。<br>
 <img src="https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/images/Day24_0.png" width="300"><br>
 こちらが復元結果です。イチゴがカピカピでまずそうです。<br>
-<img src="https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/images/Day24_0a.png" width="600"><br>
+<img src="https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/images/Day24_0a2.png" width="600"><br>
 イチゴが乾いているように見えるのはテクスチャがほとんど拡散成分だからだと思います。<br>
 <br>
 そこで今回はYouTubeのCapturing Realityチャンネルにあるこちらの動画のBonus部分を参考に、イチゴの表面にスペキュラが入っている画像をテクスチャに投影させました。<br><br>

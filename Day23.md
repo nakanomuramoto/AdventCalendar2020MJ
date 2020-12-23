@@ -11,7 +11,8 @@ https://www.gojo-partners.com/column-ps/2235
 <br>
 ## 「著作物が自由に使える場合」
 文化庁のページです。<br>
-例外があるので趣味でキャプチャーしたモデルを公開する場合に気にしておく内容はこちらが参考になると思いました。<br><br>
+趣味でキャプチャーしたモデルを公開する場合に気にしておく内容はこちらが参考になると思いました。<br><br>
+例外があるので注意したほうが良いです。<br>
 https://www.bunka.go.jp/seisaku/chosakuken/seidokaisetsu/gaiyo/chosakubutsu_jiyu.html
 <br>
 <br>

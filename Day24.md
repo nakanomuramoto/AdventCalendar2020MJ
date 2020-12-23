@@ -1,12 +1,13 @@
 # Blenderを使ったカメラプロジェクションによるテクスチャの生成　
-個人的に頑張っていたテーマがスイーツだったのですがSfMの復元だけだと限界があるようでした。<br>
+個人的に頑張っていたテーマがスイーツだったのですがSfMの復元だけだと限界があるようでした。<br><br>
 こちらが入力する元の画像です。イチゴがつやつやでおいしそうです。<br>
-<img src="https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/images/Day24_0.png" width="300"><br>
+<img src="https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/images/Day24_0.png" width="300"><br><br>
 こちらが復元結果です。イチゴがカピカピでまずそうです。<br>
-<img src="https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/images/Day24_0a2.png" width="600"><br>
+<img src="https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/images/Day24_0a2.png" width="600"><br><br>
 イチゴが乾いているように見えるのはテクスチャがほとんど拡散成分だからだと思います。<br>
 <br>
-そこで今回はYouTubeのCapturing Realityチャンネルにあるこちらの動画のBonus部分を参考に、イチゴの表面にスペキュラが入っている画像をテクスチャに投影させました。<br><br>
+そこで今回はYouTubeのCapturing Realityチャンネルにあるこちらの動画のBonus部分10'20以降を参考に、イチゴの質感を改善する工夫を試しました。<br>
+表面にスペキュラが入っている画像でテクスチャを塗っていきます。<br><br>
 *"RealityCapture tutorial: Camera projections in Blender"*<br>
 https://www.youtube.com/watch?v=yq0XjvBlsiU
 <br><br>

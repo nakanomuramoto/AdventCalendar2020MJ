@@ -6,10 +6,10 @@
 <img src="https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/images/Day24_0a.png" width="600"><br>
 イチゴが乾いているように見えるのはテクスチャがほとんど拡散成分だからだと思います。<br>
 <br>
-そこで今回はYouTubeのCapturing Realityチャンネルにあるこちらの動画のBonus部分を参考に、イチゴの表面にスペキュラが入っている画像をテクスチャに投影させました。<br>
-"RealityCapture tutorial: Camera projections in Blender"<br>
+そこで今回はYouTubeのCapturing Realityチャンネルにあるこちらの動画のBonus部分を参考に、イチゴの表面にスペキュラが入っている画像をテクスチャに投影させました。<br><br>
+*"RealityCapture tutorial: Camera projections in Blender"*<br>
 https://www.youtube.com/watch?v=yq0XjvBlsiU
-<br>
+<br><br>
 
 ## Alembic形式でモデルをexport
 こちらのように復元したモデルを使いました。<br>
@@ -69,7 +69,8 @@ Cloneを選択しSource Clone Imageにカメラプロジェクションの画像
 <img src="https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/images/Day24_27.png" width="600"><br><br>
 <br>
 Model workspaceで別のカメラ指定とUV作成、UV Editing workspaceでUV生成、Texture Paint workspaceでテクスチャ塗りの作業を繰り返します。<br>
-<img src="https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/images/Day24_30.png" width="600"><br><br>
+左が修正後、右が修正前です。<br>
+<img src="https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/images/Day24_30a.png" width="600"><br><br>
 大きく視点変更するとスペキュラの位置が変わらないので違和感が目立ちますが、少なくとも乾ききったイチゴではなくなった気がします。<br>
 
 ## まとめ

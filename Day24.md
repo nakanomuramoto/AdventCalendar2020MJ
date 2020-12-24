@@ -5,8 +5,8 @@
 こちらが復元結果です。イチゴがカピカピでまずそうです。<br>
 <img src="https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/images/Day24_0a2.png" width="600"><br><br>
 イチゴが乾いているように見えるのはテクスチャがほとんど拡散成分だからだと思います。<br>
-<br>
-そこで今回はYouTubeのCapturing Realityチャンネルにあるこちらの動画のBonus部分10'20以降を参考に、イチゴの質感を改善する工夫を試しました。<br>
+原理的な問題なのか反射や屈折や透過が残らずほとんど順光でのっぺりとした感じになるので諦めてました。<br>
+そんなところYouTubeのCapturing Realityチャンネルにあるこちらの動画のBonus部分10'20以降を見つけたので、イチゴの質感を改善する工夫を試しました。<br>
 表面にスペキュラが入っている画像でテクスチャを塗っていきます。<br><br>
 *"RealityCapture tutorial: Camera projections in Blender"*<br>
 https://www.youtube.com/watch?v=yq0XjvBlsiU

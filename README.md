@@ -29,5 +29,5 @@ https://adventar.org/calendars/5159
 ##### 22　マスクの応用　https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/Day22.md
 ##### 23　キャプチャーの法律上の懸念点　https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/Day23.md
 ##### 24　Blenderを使ったカメラプロジェクションによるテクスチャの生成　https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/Day24.md
-##### 25　*lock*
+##### 25　Photogrammetry Advent Calenderまとめ　https://github.com/nakanomuramoto/AdventCalendar2020MJ/blob/main/Day25.md
 

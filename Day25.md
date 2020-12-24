@@ -36,8 +36,10 @@ Day5, 8, 9, 15, 24はちょっとしたHackingの例を示しました。<br>
 以上、2020年PhotogrammetryのAdvent Calenderでした。<br>
 さまざま試してきた少ない個人的な感想として、被写体の表面が原理に適している場合は多くないので、キャプチャー目的であればモデリングの下描きにも適しているように思います。<br>
 <br>
-一方で技術的にはReality Captureは新しいバーションでセマンティックセグメンテーションの機能も入り、今後も進化していきそうなので楽しみにしています。<br>
-<br>
+一方で技術的にはReality Captureは新しいバーションでAIによる色塗り機能があったり、今後も進化していきそうなので楽しみにしています。<br><br>
+"RealityCapture tutorial: New mapping features RC Blaze 1.1"<br>
+https://www.youtube.com/watch?v=oMnZFOOK7LQ&t=980s
+<br><br>
 この記事はGithubに登録しているので、修正などご指摘があればプルリクエストしていただけると幸いです。<br>
 <br>
 それでは、よいお年を。<br>
